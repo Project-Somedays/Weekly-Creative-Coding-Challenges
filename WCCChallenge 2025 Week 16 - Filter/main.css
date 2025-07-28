@@ -1,0 +1,22 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0; /* Reset default body margin */
+    overflow: hidden; /* Prevent scrollbars */
+}
+#threeCanvas {
+    display: block; /* Removes extra space below canvas */
+    width: 100vw;
+    height: 100vh;
+}
+#score-container {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 24px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5); /* Optional background */
+    border-radius: 5px; /* Optional rounded corners */
+    z-index: 1; /* Ensure it's on top of the canvas */
+  }

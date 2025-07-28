@@ -1,0 +1,11 @@
+Model Information:
+* title:	Type Writer 1900
+* source:	https://sketchfab.com/3d-models/type-writer-1900-7f53c16ce9e94644af896b93e8a73418
+* author:	sasisadev (https://sketchfab.com/sasisadev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Type Writer 1900" (https://sketchfab.com/3d-models/type-writer-1900-7f53c16ce9e94644af896b93e8a73418) by sasisadev (https://sketchfab.com/sasisadev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
