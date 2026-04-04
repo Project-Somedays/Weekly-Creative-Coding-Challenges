@@ -55,13 +55,15 @@ function init() {
     scene = new THREE.Scene();
 
     // 2. Camera setup
-    camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    // camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    camera = new THREE.PerspectiveCamera(75, 1, 0.1, 1000)
     camera.position.z = 10;
 
     // 3. Renderer setup
     canvas = document.getElementById('threeCanvas');
     renderer = new THREE.WebGLRenderer({ canvas: canvas, antialias: true, preserveDrawingBuffer: true });
-    renderer.setSize(window.innerWidth, window.innerHeight);
+    // renderer.setSize(window.innerWidth, window.innerHeight);
+    renderer.setSize(1080, 1080);
     renderer.setClearColor(0x000000); // Black background
 
 
@@ -139,9 +141,9 @@ function animate() {
 }
 
 function handleWindowResize() {
-    camera.aspect = window.innerWidth / window.innerHeight;
-    camera.updateProjectionMatrix();
-    renderer.setSize(window.innerWidth, window.innerHeight);
+    // camera.aspect = window.innerWidth / window.innerHeight;
+    // camera.updateProjectionMatrix();
+    // renderer.setSize(window.innerWidth, window.innerHeight);
 }
 
 function handleKeyDown(event) {

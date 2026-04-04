@@ -1,0 +1,11 @@
+Model Information:
+* title:	Trees No Leaves
+* source:	https://sketchfab.com/3d-models/trees-no-leaves-09b609facad248479c2325bee021f1a0
+* author:	hamraj15 (https://sketchfab.com/hamraj15)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Trees No Leaves" (https://sketchfab.com/3d-models/trees-no-leaves-09b609facad248479c2325bee021f1a0) by hamraj15 (https://sketchfab.com/hamraj15) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
